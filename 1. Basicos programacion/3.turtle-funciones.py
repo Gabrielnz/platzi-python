@@ -19,6 +19,6 @@ def make_line_and_turn(gabriel, length):
 	gabriel.forward(length)
 	gabriel.left(90)
 
-# si python determina que este archivo es el main, empieza desde aqui
+# si python determina que este archivo es el main, empieza desde aqui.
 if __name__ == '__main__':
 	main()
