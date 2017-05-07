@@ -1,2 +1,2 @@
-name = str(input('Cual es tu nombre?'))
+name = str(input('Cuál es tu nombre?'))
 print('Hola, ' + name + '!')

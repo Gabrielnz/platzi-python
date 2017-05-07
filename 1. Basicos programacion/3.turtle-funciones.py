@@ -10,7 +10,7 @@ def main():
 	turtle.mainloop()
 
 def make_square(gabriel):
-	length = int(input('Tamano de cuadrado: '))
+	length = int(input('Tamaño de cuadrado: '))
 
 	for i in range(4):
 		make_line_and_turn(gabriel, length)

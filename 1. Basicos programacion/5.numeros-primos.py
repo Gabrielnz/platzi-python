@@ -31,14 +31,14 @@ def is_prime(number):
 	return result
 
 def run():
-	number = int(input('Escribe un numero: '))
+	number = int(input('Escribe un número: '))
 
 	result = is_prime(number)
 
 	if result is True:
-		print('Tu numero es primo\n')
+		print('Tu número es primo\n')
 	else:
-		print('Tu numero NO es primo\n')
+		print('Tu número NO es primo\n')
 
 # Nuestro programa empieza aqui.
 if __name__ == '__main__':

@@ -12,7 +12,7 @@ def factorial(number):
 
 # Nuestro programa empieza aqui.
 if __name__ == '__main__':
-	number = int(input('Escribe un numero: '))
+	number = int(input('Escribe un número: '))
 
 	result = factorial(number)
 

@@ -22,5 +22,5 @@ def run():
 # Nuestro programa empieza aqui.
 if __name__ == '__main__':
 	run()
-	print('El programa termina aqui.')
+	print('El programa termina aquí.')
 	print('')
