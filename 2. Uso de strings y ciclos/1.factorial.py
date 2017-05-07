@@ -1,7 +1,6 @@
 """
 Programa para determinar un numero factorial.
 """
-# -- coding: utf-8 -*-
 
 def factorial(number):
 	# casos base

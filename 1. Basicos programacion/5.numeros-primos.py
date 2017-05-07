@@ -1,7 +1,6 @@
 """
 Programa para determinar si un numero es primo.
 """
-# -- coding: utf-8 -*-
 
 def is_prime(number):
 

@@ -1,7 +1,6 @@
 """
 Calculadora de divisas que convierte de pesos mexicanos a pesos colombianos.
 """
-# -- coding: utf-8 -*-
 
 def foreign_exchange_calculator(amount):
 	mex_to_col_rate = 145.97
